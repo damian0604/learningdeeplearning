@@ -2,3 +2,5 @@ newsdataset/
 *.bak
 \#*
 *~
+aem/
+.ipynb_checkpoints/
